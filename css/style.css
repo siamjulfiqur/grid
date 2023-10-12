@@ -1,0 +1,160 @@
+
+.box{
+    min-height: 100px;
+    background-color: aqua;
+    border-right: 1px solid;
+    
+}
+.for_pad
+{padding-bottom: 10%;}
+.for_pad1
+{padding-top: -50px;}
+.none1
+{border-right: 0;}
+h1
+{text-align: center; transform: translate(0, 20px);}
+
+/* second start  */
+.box2{
+    min-height: 100px;
+    background-color: cornflowerblue;
+    border-right: 1px solid;
+}
+.cool{
+    border-right: 0;
+}
+/* second end  */
+
+
+
+/* third start  */
+.box3{
+    min-height: 100px;
+    background-color: blueviolet;
+    border-right: 1px solid;
+}
+.cool-2{
+    border-right: 0;
+}
+h3{
+    text-align: center; transform: translate(0, 25px); 
+}
+/* third end  */
+
+
+
+/* four start  */
+.box4{
+min-height: 100px;
+background-color: cornflowerblue;
+border-right: 1px solid;
+}
+.cool-3{
+    border-right: 0;
+}
+/* four end  */
+/* five start  */
+.box5{
+min-height: 100px;
+background-color: lightblue;
+border-right: 1px solid;
+}
+.cool-4{
+    border-right: 0;
+}
+.box6{
+    min-height: 100px;
+    background-color: cornflowerblue;
+    border-right: 1px solid;  
+}
+.cool-5{
+    border-right: 0;
+}
+.box7{
+    min-height: 100px;
+    background-color: lightblue;
+    border-right: 1px solid; 
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+}
+.cool-6{
+    border-right: 0;
+   
+}
+.box8{
+    min-height: 100px;
+    background-color: lightblue;
+    border-right: 1px solid; 
+    border-top: 1px solid;
+   border-bottom: 1px solid; 
+}
+.cool-7{
+    border-right: 0;
+ 
+}
+.box9{
+    min-height: 100px;
+    background-color: lightblue;
+    border-right: 1px solid; 
+    border-top: 1px solid;
+    border-bottom: 1px solid;  
+}
+.box10{
+    min-height: 100px;
+    background-color: lightblue;
+    border-right: 1px solid; 
+    border-top: 1px solid;
+    border-bottom: 1px solid;  
+}
+.box11{
+    min-height: 100px;
+    background-color: cornflowerblue;
+    border-right: 1px solid;
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+}
+.box12{
+    min-height: 100px;
+    background-color: cornflowerblue;
+    border-right: 1px solid;
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+}
+.level{
+    min-height: 50px;
+    background-color: lightblue;
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+}
+
+
+/* five end  */
+/* colum start  */
+.full{
+    min-height: 150px;
+    background-color: cornflowerblue;
+}
+.heder{
+    min-height: 50px;
+    background-color: aquamarine;
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+    border-right: 1px solid;
+}
+h4{
+    transform: translate(0, 10px);
+}
+/* second colum  */
+
+
+
+
+/* for_try */
+.newbac
+{background-color: black; height: 500px;}
+.box122
+{height: 100px; background-color: red;}
+.pad
+{padding-bottom: 10px 0;}
+    
+
